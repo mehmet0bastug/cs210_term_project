@@ -16,5 +16,5 @@ The data for this project is extracted from a YouTube watch history HTML file. T
 
 ## Usage
 1. **Data Extraction**: The script `parse_html_and_write_csv.py` reads the YouTube watch history from an HTML file and converts it into a CSV format for easier analysis.
-2. **Data Analysis**: The main analysis is performed in `analysis.py`, where the data is categorized and various metrics are calculated.
+2. **Data Analysis**: The data is analysed.
 3. **Visualization**: The script includes matplotlib and seaborn-based visualizations to provide insights into viewing habits.
